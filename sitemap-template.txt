@@ -1,0 +1,10 @@
+SITEMAP TEMPLATE — replace YOURDOMAIN.COM after the final domain is connected.
+
+https://YOURDOMAIN.COM/
+https://YOURDOMAIN.COM/services.html
+https://YOURDOMAIN.COM/projects.html
+https://YOURDOMAIN.COM/cad.html
+https://YOURDOMAIN.COM/about.html
+https://YOURDOMAIN.COM/quote.html
+https://YOURDOMAIN.COM/privacy.html
+https://YOURDOMAIN.COM/terms.html

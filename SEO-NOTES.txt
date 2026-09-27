@@ -1,0 +1,20 @@
+Baeza Fabworks V17 SEO setup
+
+Added:
+- Unique search-friendly page titles
+- Unique meta descriptions
+- Open Graph and Twitter sharing metadata
+- ProfessionalService structured data on the homepage
+- robots.txt
+- sitemap template
+
+Not hard-coded yet:
+- Canonical URLs
+- og:url values
+- absolute social image URLs
+- production sitemap.xml
+- robots.txt sitemap declaration
+
+Those require the final public domain. Add them after the domain/hosting step rather than inventing a URL now.
+
+V18 added privacy.html and terms.html. Include both in the final sitemap after the domain is chosen.

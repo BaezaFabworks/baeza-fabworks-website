@@ -1,0 +1,31 @@
+BAEZA FABWORKS — AUDIO ASSET RECORD
+Prepared: September 2026
+
+1) Background music
+Title: Walls That Fall – Slow Industrial Blues Rock with Funk
+Creator: NickPanek
+Local file: assets/audio/walls-that-fall.mp3
+Source: Pixabay, track ID 339213
+License at verification: Pixabay Content License — free use, including commercial incorporated use; attribution not required; standalone redistribution prohibited.
+Source page: https://pixabay.com/music/rock-walls-that-fall-slow-industrial-blues-rock-with-funk-339213/
+
+2) Ratchet sound effect
+Title: ratchet socket wrench tool
+Creator/credit shown by Pixabay: AlaskaRobotics (Freesound) / freesound_community
+Local file: assets/audio/ratchet.mp3
+Source: Pixabay, sound ID 95253
+License at verification: Pixabay Content License — listed by Pixabay as free for use.
+Source page: https://pixabay.com/sound-effects/film-special-effects-ratchet-socket-wrench-tool-95253/
+
+3) Gear click sound effect
+Uploaded source filename: koiroylers-gear-click-351962.mp3
+Local edited file: assets/audio/gear-click.mp3
+Note: supplied by site owner. Retain the original download/license receipt or source page with business records. Exact source page was not independently verified in this build.
+
+4) Welding sound effect
+Uploaded source filename: u_xg7ssi08yr-welding-torch-multiple-421345.mp3
+Local edited file: assets/audio/weld-strike.mp3
+Note: supplied by site owner. Retain the original download/license receipt or source page with business records. Exact source page was not independently verified in this build.
+
+Pixabay license summary: https://pixabay.com/service/license-summary/
+Keep this file with the website package and retain any original download certificates/receipts.

@@ -1,0 +1,25 @@
+Baeza Fabworks launch checklist — V18
+
+COMPLETE
+- Quote form connected to Formspree and tested
+- Free-plan attachment workflow
+- Mobile/responsive pass
+- SEO page titles/descriptions and structured business data
+- Privacy notice and site terms
+- Quote-form privacy disclosure
+- Project image optimization + lazy loading
+- Background music compression
+- Stale placeholder project modal cleanup
+- robots.txt and sitemap template
+
+WAITING ON FINAL DOMAIN / HOSTING
+- Choose/register domain
+- Choose hosting
+- Add canonical URLs and og:url
+- Create production sitemap.xml with final domain
+- Add sitemap URL to robots.txt
+- Set absolute social-preview image URL
+- Restrict Formspree submissions to production domain
+- Verify HTTPS
+- Submit sitemap to Google Search Console / Bing Webmaster Tools
+- Final live-device test
