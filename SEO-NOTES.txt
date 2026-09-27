@@ -1,20 +1,17 @@
-Baeza Fabworks V17 SEO setup
+BAEZA FABWORKS — PRODUCTION SEO NOTES (V19)
 
-Added:
-- Unique search-friendly page titles
-- Unique meta descriptions
-- Open Graph and Twitter sharing metadata
-- ProfessionalService structured data on the homepage
-- robots.txt
-- sitemap template
+Production domain: https://baezafabworks.com
 
-Not hard-coded yet:
-- Canonical URLs
-- og:url values
-- absolute social image URLs
-- production sitemap.xml
-- robots.txt sitemap declaration
+Completed in V19:
+- Canonical URL added to every public HTML page.
+- og:url added to pages with Open Graph metadata.
+- Social preview image URLs made absolute.
+- Homepage structured data includes production URL and image.
+- Production sitemap.xml created.
+- robots.txt now declares the production sitemap.
+- GitHub Pages CNAME file added for baezafabworks.com.
 
-Those require the final public domain. Add them after the domain/hosting step rather than inventing a URL now.
-
-V18 added privacy.html and terms.html. Include both in the final sitemap after the domain is chosen.
+Next operational steps:
+- Confirm one production quote-form submission reaches the business inbox.
+- Configure Formspree domain restrictions if available on the current plan.
+- Submit https://baezafabworks.com/sitemap.xml to Google Search Console and Bing Webmaster Tools.

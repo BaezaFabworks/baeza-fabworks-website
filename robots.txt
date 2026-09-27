@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-# Add the sitemap URL here after the final domain is connected.
+Sitemap: https://baezafabworks.com/sitemap.xml
